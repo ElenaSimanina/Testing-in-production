@@ -40,6 +40,11 @@
   status: fail
 
 - summary: |
+    Проверка возможности восстановления пароля
+  requirement: |
+  status: fail
+
+- summary: |
     Проверка  изменения имени в  своем профиле
   status: pass
 
