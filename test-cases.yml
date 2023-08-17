@@ -10,7 +10,7 @@
     Password = am24475
   steps: |
     - нажать кнопку "Sign up"
-    - наполнить поле "Nickname"
+    - заполнить поле "Nickname"
     - заполнить поле "Email" 
     - заполнить поле "Password" 
     - заполнить "Password Confirmation" 
