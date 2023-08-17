@@ -8,7 +8,7 @@
     Nickname = Klepa 
     Email = alis_med@mail.ru 
     Password = am24475
-  steps: |
+  steps: 
     - нажать кнопку "Sign up"
     - заполнить поле "Nickname"
     - заполнить поле "Email" 
