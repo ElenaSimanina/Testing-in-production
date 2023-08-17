@@ -638,7 +638,7 @@
   requirement: |
     При выборе разных мобильных страница страница сайта, кнопки и чаты отображаются корректно
   prerequisites: |
-    - открыта страница сайта  https://codebattle.hexlet.io/#lobby          
+    Открыта страница https://codebattle.hexlet.io/#lobby     
   test-data: |
     версии мобильных устройств в DevTools
   steps:
