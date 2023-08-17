@@ -9,11 +9,11 @@
     Email = alis_med@mail.ru 
     Password = am24475
   steps: |
-    - Нажать кнопку "Sign up"
-    - Заполнить поле "Nickname", незанятый другим пользователем 
-    - Заполнить поле "Email" 
-    - Заполнить поле "Password" 
-    - Повторить пароль во втором поле "Password Confirmation" 
-    - Нажать кнопку "Submit"
+    - нажать кнопку "Sign up"
+    - наполнить поле "Nickname"
+    - заполнить поле "Email" 
+    - заполнить поле "Password" 
+    - заполнить "Password Confirmation" 
+    - нажать кнопку "Submit"
   expected-result: |
     Регистрация выполнена успешно, пользователь попадает на главную страницу сайта
